@@ -11,7 +11,7 @@ layout: default
     {% endif %}
 
     <div>
-      <a href="{{ post.url }}"><b>{{ post.title }}</b></a><br>
+      <a href="{{ post.url | relative_url }}"><b>{{ post.title }}</b></a><br>
 
       <small style="color:#777;">
   {% assign now = site.time | date: "%s" %}
