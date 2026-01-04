@@ -229,7 +229,7 @@
   font-size: 12px;
 }
 
-/* ===== table Grid View ===== */
+/* ===== Destop Grid View ===== */
 @media (min-width: 768px) {
   .post-list {
     display: grid;
@@ -260,33 +260,3 @@
   }
 }
 
-/* ===== Desktop Grid View ===== */
-@media (min-width: 1024px) {
-  .post-list {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    padding: 16px;
-  }
-
-  .post-item {
-    flex-direction: column;
-    align-items: flex-start;
-    border: 1px solid #eee;
-    border-radius: 8px;
-  }
-
-  .post-item img {
-    width: 100%;
-    height: 160px;
-    border-radius: 8px 8px 0 0;
-  }
-
-  .post-content {
-    padding: 10px;
-  }
-
-  .post-content b {
-    font-size: 16px;
-  }
-}
