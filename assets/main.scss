@@ -175,4 +175,22 @@
   margin: 20px auto;       /* center content */
   padding: 0 14px;         /* mobile safe padding */
 }
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 
+.post-list li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.post-list img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 6px;
+}
