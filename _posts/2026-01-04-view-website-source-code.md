@@ -6,8 +6,6 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/I
 ---
 
 
-# 🔥 মোবাইল দিয়েই যেকোনো ওয়েবসাইটের Source Code দেখুন – এখন আর PC দরকার নেই!
-
 আপনি কি কখনো ভেবেছেন—
 
 - 👉 Facebook, YouTube, Amazon বা যেকোনো ওয়েবসাইট আসলে ভেতরে ভেতরে কীভাবে কাজ করে?
@@ -63,7 +61,7 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/I
 
 প্রথমে আপনার ফোনে **Tools Browser** ওপেন করুন।
 
-![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my_blog_image/main/IMG_20251230_094637.jpg
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20251230_094637.jpg
 )
 ---
 
@@ -75,10 +73,12 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/I
 - Facebook  
 - YouTube  
 - Amazon  
-- বা আপনার পছন্দের যেকোনো Site  
+- বা আপনার পছন্দের যেকোনো Site
+- আমি ফেইসবুক ওপেন করলাম
 
-📸 *Screenshot বসাবেন এখানে*  
-*(Website Loaded in Tools Browser)*
+
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/facebook_home.jpg
+)
 
 ---
 
@@ -89,8 +89,8 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/I
 ক্লিক করলেই আপনি দেখতে পাবেন—  
 👉 **অনেকগুলো Powerful Tool একসাথে**
 
-📸 *Screenshot বসাবেন এখানে*  
-*(Tools Menu Opened)*
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20260104_205607.jpg
+)
 
 ---
 
@@ -99,8 +99,8 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/I
 এখন Tools List থেকে  
 👉 **Inspect Tool**-এ ক্লিক করুন।
 
-📸 *Screenshot বসাবেন এখানে*  
-*(Inspect Tool Clicked)*
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20251230_095927.jpg
+)
 
 ---
 
@@ -113,8 +113,8 @@ Inspect Tool ওপেন হলেই—
 
 👉 **Beginners দের জন্য এটা সবচেয়ে Useful।**
 
-📸 *Screenshot বসাবেন এখানে*  
-*(Body Source Code View)*
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/Screenshot_2025-12-30-09-56-14-415_com.soumitra.toolsbrowser.jpg
+)
 
 ---
 
@@ -128,21 +128,26 @@ Inspect Tool ওপেন হলেই—
 Inspect বা Source Page ওপেন থাকা অবস্থায়  
 👉 উপরের **Menu (⋮)** বাটনে ক্লিক করুন।
 
-📸 *Screenshot বসাবেন এখানে*  
-*(Source Page Menu)*
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20251230_100824.jpg
+)
 
 ---
 
-### 🔹 Step 7: “Show Options” থেকে Full Select করুন
+### 🔹 Step 7: “Show Options” থেকে All Select করুন
 
-- **Show Options**-এ ক্লিক করুন  
-- তারপর **Full** সিলেক্ট করুন  
-
+- **Show Options**-এ ক্লিক করুন
+  
+  ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20251230_101118.jpg
+)
+- তারপর **All** সিলেক্ট করুন
+  
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20251230_101250.jpg
+)
 এতেই আপনি দেখতে পাবেন—  
 👉 **পুরো Website-এর Complete Source Code**
 
-📸 *Screenshot বসাবেন এখানে*  
-*(Full Source Code View)*
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/Screenshot_2025-12-30-10-13-53-801_com.soumitra.toolsbrowser.jpg
+)
 
 ---
 
@@ -159,7 +164,7 @@ Inspect বা Source Page ওপেন থাকা অবস্থায়
 - আপনার চিন্তা করার ধরন বদলাবে  
 - আপনি Web-কে আর আগের মতো দেখবেন না  
 - আপনি প্রশ্ন করতে শিখবেন—  
-  *“এটা কেন 이렇게 কাজ করছে?”*
+  *“এটা কেন আর কিভাবে কাজ করছে?”*
 
 আর এই প্রশ্ন করার অভ্যাসটাই  
 👉 **আপনাকে সাধারণ ইউজার থেকে আলাদা করবে।**
@@ -169,4 +174,4 @@ Inspect বা Source Page ওপেন থাকা অবস্থায়
 ## 📥 Tools Browser ডাউনলোড লিংক
 
 👉 **Tools Browser Download করুন এখান থেকে:**  
-🔗 *[এখানে আপনার Play Store / Download Link বসাবেন]*
+🔗 *(https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser)*
