@@ -86,10 +86,15 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/I
 
 ওয়েবসাইট লোড হয়ে গেলে নিচে / উপরে থাকা **Tools Button**-এ ক্লিক করুন।
 
+
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20260104_205607.jpg
+)
+
+
 ক্লিক করলেই আপনি দেখতে পাবেন—  
 👉 **অনেকগুলো Powerful Tool একসাথে**
 
-![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20260104_205607.jpg
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/Screenshot_2025-12-30-09-56-14-415_com.soumitra.toolsbrowser.jpg
 )
 
 ---
@@ -99,7 +104,7 @@ thumbnail: https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/I
 এখন Tools List থেকে  
 👉 **Inspect Tool**-এ ক্লিক করুন।
 
-![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/IMG_20251230_095927.jpg
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/my-blog/main/assets/Image/View_source_code_blog/Screenshot_2025-12-30-10-02-51-159_com.soumitra.toolsbrowser.jpg
 )
 
 ---
