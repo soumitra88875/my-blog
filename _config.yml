@@ -1,4 +1,8 @@
 title: Tools Browser বাংলা ব্লগ
 description: Web Development ও Mobile Tech শেখার জন্য একটি বাংলা টেক ব্লগ
 theme: minima
-header_pages: []
+
+url: "https://soumitra88875.github.io"
+baseurl: "/my-blog"
+
+permalink: /:year/:month/:day/:title.html
