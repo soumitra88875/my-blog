@@ -8,47 +8,60 @@
 .site-header .menu-icon {
   display: none !important;
 }
+/* ===== Custom Footer ===== */
 .custom-footer {
-  background: linear-gradient(180deg, #111, #1e1e1e);
-  padding: 40px 20px;
+  background: linear-gradient(180deg, #f7f7f7, #eaeaea);
+  padding: 50px 20px 60px;
   text-align: center;
-  color: #e0e0e0;
+  border-top: 1px solid #ddd;
 }
 
 .footer-box {
   max-width: 520px;
   margin: 0 auto;
+  background: #111;
+  border-radius: 18px;
+  padding: 28px 22px 32px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
 }
 
+/* Title */
 .custom-footer h3 {
+  margin: 0 0 10px;
   font-size: 22px;
-  margin-bottom: 12px;
   color: #ffffff;
+  letter-spacing: 0.4px;
 }
 
+/* Description */
 .custom-footer p {
-  font-size: 15px;
+  font-size: 14.5px;
   line-height: 1.6;
-  color: #bdbdbd;
+  color: #cfcfcf;
   margin-bottom: 22px;
 }
 
 /* Download Button */
 .download-btn {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
   padding: 14px 28px;
   background: linear-gradient(135deg, #00c853, #64dd17);
-  color: #000;
-  font-weight: 600;
+  color: #0a0a0a;
+
   font-size: 15px;
+  font-weight: 600;
   border-radius: 30px;
   text-decoration: none;
-  box-shadow: 0 8px 18px rgba(0, 200, 83, 0.35);
+
+  box-shadow: 0 10px 22px rgba(0, 200, 83, 0.35);
   transition: all 0.25s ease;
 }
 
 .download-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 12px 25px rgba(0, 200, 83, 0.55);
-  background: linear-gradient(135deg, #64dd17, #00c853);
+  box-shadow: 0 14px 28px rgba(0, 200, 83, 0.55);
 }
