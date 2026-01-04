@@ -2,8 +2,6 @@
 layout: default 
 ---
 
-## 📰 সর্বশেষ পোস্টসমূহ
-
 <ul class="post-list">
 {% for post in site.posts %}
   <li style="display:flex;align-items:center;margin-bottom:15px;">
