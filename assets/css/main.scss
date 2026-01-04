@@ -1,0 +1,43 @@
+---
+
+---
+
+@import "minima";
+
+
+/* Footer */
+.custom-footer {
+  background: linear-gradient(180deg, #111, #1e1e1e);
+  padding: 40px 20px;
+  text-align: center;
+  color: #e0e0e0;
+}
+
+.footer-box {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.custom-footer h3 {
+  font-size: 22px;
+  margin-bottom: 12px;
+  color: #fff;
+}
+
+.custom-footer p {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #bdbdbd;
+  margin-bottom: 22px;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 14px 28px;
+  background: linear-gradient(135deg, #00c853, #64dd17);
+  color: #000;
+  font-weight: 600;
+  border-radius: 30px;
+  text-decoration: none;
+  box-shadow: 0 8px 18px rgba(0,200,83,.35);
+}
