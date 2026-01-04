@@ -169,3 +169,10 @@
 }
 
 
+/* ===== Page Content Wrapper ===== */
+.page-content {
+  max-width: 900px;        /* desktop width */
+  margin: 20px auto;       /* center content */
+  padding: 0 14px;         /* mobile safe padding */
+}
+
