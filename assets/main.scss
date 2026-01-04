@@ -57,3 +57,37 @@
   background: #00e676;
   transform: translateY(-1px);
 }
+
+
+/* ===== TrickBD Style Header ===== */
+.tb-header {
+  background: #f1f1f1;
+  border-bottom: 1px solid #dcdcdc;
+  height: 52px;
+}
+
+.tb-header-inner {
+  max-width: 1000px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 14px;
+
+  display: flex;
+  align-items: center;
+}
+
+.tb-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: #2a6ebb;
+}
+
+.tb-logo img {
+  height: 28px;
+  width: auto;
+}
