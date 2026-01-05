@@ -8,5 +8,8 @@ baseurl: "/my-blog"
 permalink: /:year/:month/:day/:title.html
 
 markdown: kramdown
+
 paginate: 10
 paginate_path: "/page:num/"
+plugins:
+  - jekyll-paginate
