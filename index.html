@@ -16,15 +16,25 @@ layout: default
         <img src="{{ post.thumbnail }}">
       {% endif %}
 
-      <div>
-        <a href="{{ post.url | relative_url }}">
-          <b>{{ post.title }}</b>
-        </a>
-        <div class="pin-label">📌 Pinned</div>
+      <div style="display:flex; flex-direction:column; gap:4px;">
 
-        <small style="color:#777;">
-          {{ post.date | date: "%b %d, %Y" }}
-        </small>
+  <a href="{{ post.url | relative_url }}">
+    <b>{{ post.title }}</b>
+  </a>
+
+  <div class="pin-label">📌 Pinned</div>
+
+  <!-- date + views same line -->
+  <div style="display:flex; justify-content:space-between; align-items:center; font-size:12px; color:#777;">
+    <span>
+      {{ post.date | date: "%b %d, %Y" }}
+    </span>
+
+    <span>
+      <span data-goatcounter-hit></span> views
+    </span>
+  </div>
+
       </div>
 
     </li>
