@@ -261,11 +261,14 @@
   }
 }
 
-/* ===== Pinned post (Show First) ===== */
+/* ===== Pinned post (subtle & clean) ===== */
 .pinned-post {
-  background: #fff8e1;
-  border-left: 4px solid #f39c12;
-  padding: 2px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  background: transparent;          /* no bg height */
+  border-left: 3px solid #f39c12;    /* thin indicator */
+  padding-left: 8px;
+}
+.pinned-post .pin-label {
+  font-size: 11px;
+  color: #f39c12;
+  font-weight: 600;
 }
