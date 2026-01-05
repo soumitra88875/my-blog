@@ -3,7 +3,50 @@ layout: default
 ---
 
 <ul class="post-list">
-{% for post in paginator.posts %}
+
+{% assign pinned_posts = site.posts | where: "pinned", true %}
+{% assign normal_posts = paginator.posts | where_exp: "post", "post.pinned != true" %}
+
+<!-- 🔥 PINNED POST (Always on Top) -->
+{% for post in pinned_posts %}
+  <li class="pinned-post" style="display:flex;align-items:center;margin-bottom:15px;">
+
+    {% if post.thumbnail %}
+      <img src="{{ post.thumbnail }}">
+    {% endif %}
+
+    <div>
+      <a href="{{ post.url | relative_url }}">
+        <b>{{ post.title }}</b>
+      </a>
+      <div style="font-size:11px;color:#d35400;">📌 Pinned</div>
+
+      <small style="color:#777;">
+        {% assign now = site.time | date: "%s" %}
+        {% assign post_time = post.date | date: "%s" %}
+        {% assign diff = now | minus: post_time %}
+
+        {% if diff < 60 %}
+          {{ diff }} sec ago
+        {% elsif diff < 3600 %}
+          {{ diff | divided_by: 60 }} min ago
+        {% elsif diff < 86400 %}
+          {{ diff | divided_by: 3600 }} hours ago
+        {% elsif diff < 2592000 %}
+          {{ diff | divided_by: 86400 }} days ago
+        {% elsif diff < 31536000 %}
+          {{ diff | divided_by: 2592000 }} months ago
+        {% else %}
+          {{ diff | divided_by: 31536000 }} years ago
+        {% endif %}
+      </small>
+    </div>
+
+  </li>
+{% endfor %}
+
+<!-- 🔹 NORMAL POSTS (Paginated) -->
+{% for post in normal_posts %}
   <li style="display:flex;align-items:center;margin-bottom:15px;">
 
     {% if post.thumbnail %}
@@ -38,6 +81,7 @@ layout: default
 
   </li>
 {% endfor %}
+
 </ul>
 
 <!-- 🔽 Pagination START -->
@@ -52,13 +96,9 @@ layout: default
       <strong style="margin:0 6px;">{{ page }}</strong>
 
     {% elsif page == 1 %}
-      <!-- Page 1 always goes to home -->
-      <a href="{{ site.baseurl }}/" style="margin:0 6px;">
-        1
-      </a>
+      <a href="{{ site.baseurl }}/" style="margin:0 6px;">1</a>
 
     {% else %}
-      <!-- Page 2,3,4... -->
       <a href="{{ site.baseurl }}/page{{ page }}/" style="margin:0 6px;">
         {{ page }}
       </a>
