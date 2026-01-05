@@ -55,7 +55,11 @@
 }
 
 /* Download Button */
-.tb-download-btn {
+.tb-download-btn,
+.tb-download-btn:visited,
+.tb-download-btn:hover,
+.tb-download-btn:active,
+.tb-download-btn:focus{
   font-size: 13px;
   font-weight: 600;
   padding: 6px 12px;
