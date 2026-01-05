@@ -10,6 +10,6 @@ permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 
 paginate: 1
-paginate_path: "/my-blog/page:num/"
+paginate_path: "/page:num/"
 plugins:
   - jekyll-paginate
