@@ -2,7 +2,6 @@
 layout: post
 title: "JavaScript শেখার নতুন পথ: শুধু Mobile ব্যবহার করে Real Website-এ Code Test ও Debug করার সম্পূর্ণ প্রক্রিয়া — Tools Browser দিয়ে"
 date: 2026-01-05 16:10:00 +0530
-published: false
 thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/20260106_133206.png
 ---
 JavaScript শেখার সময় সবচেয়ে বড় যে ভুলটা প্রায় সবাই করে, সেটা হলো—
@@ -56,24 +55,24 @@ JavaScript শেখার সময় সবচেয়ে বড় যে ভুল�
 
 ---
 
-[h2]Tools Browser দিয়ে Mobile দিয়েই Real Practice[/h2]
+## Tools Browser দিয়ে Mobile দিয়েই Real Practice
 
 Tools Browser ব্যবহার করলে তুমি—
 
-[b]• নিজের JavaScript script বানাতে পারো
+**• নিজের JavaScript script বানাতে পারো
 • যেকোনো website এ inject করে test করতে পারো
 • Script কাজ করছে নাকি না, সাথে সাথে বুঝতে পারো
 • Script save করে রাখতে পারো, হারাবে না
-• পরে বাড়ি গিয়ে laptop এ final code বসাতে পারো[/b]
+• পরে বাড়ি গিয়ে laptop এ final code বসাতে পারো**
 
 সবচেয়ে গুরুত্বপূর্ণ বিষয়—
-[b]এতে website বা server side এ কোনো ক্ষতি হয় না[/b]।
+**এতে website বা server side এ কোনো ক্ষতি হয় না।**
 সবকিছু শুধু তোমার মোবাইলেই locally run করে।
 
 
 ---
 
-[h2]Server এ code বসানোর আগে Mobile দিয়ে Test কেন জরুরি[/h2]
+## Server এ code বসানোর আগে Mobile দিয়ে Test কেন জরুরি
 
 ধরো তুমি নিজের বা client এর website এ JavaScript add করতে চাও।
 
@@ -87,7 +86,7 @@ JavaScript তো programming language—
 • chair–table এ বসে সময় নষ্ট
 • মাথা গরম
 
-[b]Solution?[/b]
+**Solution?**
 আগে mobile দিয়ে inject করে test করো।
 সব ঠিক থাকলে তারপর server এ final code বসাও।
 
@@ -96,88 +95,91 @@ Easy. খুব easy.
 
 ---
 
-[h2]Tools Browser এ JavaScript Inject করার Step-by-Step[/h2]
+## Tools Browser এ JavaScript Inject করার Step-by-Step
 
-[b]Step 1:[/b] Tools Browser open করো
+**Step 1:** Tools Browser open করো
 
-[img id=3076217]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/IMG_20251230_094637.jpg)
 
 [b]Step 2:[/b] যে website এ test করতে চাও সেটা open করো, আমি [b]w3schools.com ওপেন করলাম।[/b]
 
-[img id=3076917]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img2.jpg)
 
 [b]Step 3:[/b] Tools button এ click করো
 
-[img id=3076918]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img3.jpg)
 
 [b]Step 4:[/b] Custom tab এ যাও
 
-[img id=3076919]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img4.jpg)
 
 এই জায়গাটাই হলো তোমার
 [b]JavaScript Practice Ground[/b]
 
-[img id=3076921]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img5.jpg)
 
 ---
 
-[h2] Javascript  কীভাবে Create করবে[/h2]
+## Javascript  কীভাবে Create করবে
 
-• [b]Custom page [/b] এর মেনু থেকে [b]Create tools[/b] এ ক্লিক করো
+• **Custom page** এর মেনু থেকে **Create tools** এ ক্লিক করো
 
-[img id=3076922]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img6.jpg)
 
-• Script এর একটা [b]Title[/b] দাও (যাতে বুঝতে পারো এটা কী জন্য)
-• [b]Description লেখো [/b]– script কী করবে
-• [b]Raw JavaScript [/b]paste করো
-তারপর [b] CREATE [/b]বাটনে ক্লিক করো।
+• Script এর একটা **Title** দাও (যাতে বুঝতে পারো এটা কী জন্য)
+• **Description লেখো** – script কী করবে
+• **Raw JavaScript** paste করো
+তারপর **CREATE** বাটনে ক্লিক করো।
 নিচের স্ক্রিনশট follow করো:
 
-[img id=3076927]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img7.jpg)
 
-[b]গুরুত্বপূর্ণ কথা:[/b]
-Tools Browser নিজে থেকেই [b] Script tag handle করে।[/b]
+**গুরুত্বপূর্ণ কথা:**
+Tools Browser নিজে থেকেই **Script tag handle করে।**
 তাই
-[b] script tag লিখবে না[/b]
+**script tag লিখবে না**
 শুধু raw JavaScript paste করো।
 সম্ভব হলে কোডের ভেতর কমেন্ট লেখা থেকে বিরোত থাকবে। 
-[b] // [/b] বাহ [b] /* */ [/b]
+**//** বাহ /* */
 অনেক সময় কমেন্ট এর জন্যে কোড কাজ নাও করতে পারে।
 দেখো নিচের ইমেজ এ আমি script tag এর সাথে সাথে comment ও কেটে দিয়েছি। যখন স্ক্রিপ টা server অ্যাড করবা তখন script tag add করে নিবা।
 
-[img id=3076954]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img8.jpg)
 
 
-[b]নিচের কোড টা দেখো।[/b]
+**নিচের কোড টা দেখো।**
 
+```javascript
 (function () {
     var divs = document.getElementsByTagName("div");
     for (var i = 0; i < divs.length; i++) {
         divs[i].style.backgroundColor = "#000000"; 
     }
 })();
+```
 
-Create করার পর [b] Custom tools [/b] tool তৈরি হবে।
+Create করার পর **Custom tools** tool তৈরি হবে।
 
-[img id=3076928]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img9.jpg)
 
 ওই tool এ click করলেই script inject হবে।
-দেখো inject এর পর ওয়েব পেজ এর সব [b]div Black color হইয়ে গিয়েছে ।[/b] কারণ আমি স্ক্রিপ্টে ব্ল্যাক কালার দিয়েছি। চাইলে তুমি রেড কালার ইউজ করতে পারো। #0000ff
+দেখো inject এর পর ওয়েব পেজ এর সব **div Black color হইয়ে গিয়েছে ।** কারণ আমি স্ক্রিপ্টে ব্ল্যাক কালার দিয়েছি। চাইলে তুমি রেড কালার ইউজ করতে পারো। #0000ff
 
-[img id=3076929]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img10.jpg)
 
 ---
 
-[h2]Script কাজ করছে নাকি না – বুঝবে কীভাবে[/h2]
+## Script কাজ করছে নাকি না – বুঝবে কীভাবে
 
 JavaScript কাজ করছে কিনা বুঝতে—
 
-• [b]console.log[/b] ব্যবহার করো
-• [b]success message[/b] দাও
-• [b]error message[/b] দাও
+• **console.log** ব্যবহার করো
+• **success message** দাও
+• **error message** দাও
 
-নিচের [b]script টা [/b] দেখো:
+নিচের **script টা** দেখো:
 
+```javascript
 (function () {
     try {
         var divs = document.getElementsByTagName("div");
@@ -198,21 +200,22 @@ JavaScript কাজ করছে কিনা বুঝতে—
         console.error("❌ ERROR: Failed to change div background.", e);
     }
 })();
+```
 
-এবার এই স্ক্রিপ্ট দিয়ে টুলস ক্রিয়েট করো আন্ড Inject করার পর আবার [b]Tools button এ click করো।[/b]
+এবার এই স্ক্রিপ্ট দিয়ে টুলস ক্রিয়েট করো আন্ড Inject করার পর আবার **Tools button এ click করো।**
 
-[img id=3076918]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img11.jpg)
 
-তারপর [b]Tools [/b] থেকে [b]Console[/b] page open করো।
+তারপর **Tools** থেকে **Console** page open করো।
 
-[img id=3076938]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img12.jpg)
 
-[b]এখানে দেখবে—[/b]
+**এখানে দেখবে—**
 • Success হলে success message
 • Error হলে error message
-আমার স্ক্রিপ্ট এ কোনো ভুল নেই তাই দেখো আমর [b]success message এসেছে।[/b]
+আমার স্ক্রিপ্ট এ কোনো ভুল নেই তাই দেখো আমর **success message এসেছে।**
 
-[img id=3076939]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img13.jpg)
 
 
 এভাবেই বুঝবে script ঠিক আছে নাকি fail করছে।
@@ -220,21 +223,21 @@ JavaScript কাজ করছে কিনা বুঝতে—
 
 ---
 
-[h2]Predefined JavaScript দিয়ে Practice আরও সহজ[/h2]
+## Predefined JavaScript দিয়ে Practice আরও সহজ
 
 তুমি চাইলে—
 
-• [b]Custom script [/b] নিজে লিখতে পারো
-• অথবা [b]predefined script[/b] দিয়ে practice করতে পারো
+• **Custom script** নিজে লিখতে পারো
+• অথবা **predefined script** দিয়ে practice করতে পারো
 
-[b]Custom page থেকে menu তে যাও
-JavaScript Lab open করো[/b]
+**Custom page থেকে menu তে যাও
+JavaScript Lab open করো**
 
-[img id=3076940]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img14.jpg)
 
-দেখবে অনেক [b] ready-made JavaScript[/b] আছে।
+দেখবে অনেক **ready-made JavaScript** আছে।
 
-[img id=3076941]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img15.jpg)
 
 যেমন—
 • Text color change
@@ -243,58 +246,64 @@ JavaScript Lab open করো[/b]
 • Animation test
 
 একটা script Custom page এ add করো (add করতে just তোমার পছন্দ মতো script এর উপর ক্লিক করো)
-আমি [b]Highlight  All Links[/b] script এর উপর ক্লিক করলাম।
+আমি **Highlight  All Links** script এর উপর ক্লিক করলাম।
  এটা একটু scroll করলে নিচের দিকে পেয়ে যাবে।
 
-[img id=3076944]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img16.jpg)
 
-দেখো [b]Custom tools page [/b] এ অ্যাড হইয়ে গেছে। 
+দেখো **Custom tools page** এ অ্যাড হইয়ে গেছে। 
 
-[img id=3076945]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img17.jpg)
 
 Tool এ click করো
-[b]Live website এ result দেখো[/b]
+**Live website এ result দেখো**
 যেহেতু আমি সব লিংক গুলো Hightlight করেছি তাই দেখো যেখানে যেখানে লিংক আছে সব yellow কালার হইয়ে গেছে। তুমি চাইলে[b] স্ক্রিপ্ট মডিফাই [/b] করে আলাদা কালার দিতে পারো।
 
-[img id=3076946]
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img18.jpg)
 
-এটাই [b]real learning।[/b]
+এটাই **real learning।**
 
 
 ---
 
-[h2]শেষ কথা[/h2]
+## শেষ কথা
 
 JavaScript শেখার সবচেয়ে বড় শত্রু হলো—
-[b]Practice না করা[/b]।
+** Practice না করা। **
 
 এখন আর excuse নেই—
-[b]Laptop[/b] নেই
-[b]PC[/b] নেই
-[b] চেয়ার টেবিল [/b] এ বসে থাকার সময় নেই
+**Laptop** নেই
+**PC** নেই
+**চেয়ার টেবিল** এ বসে থাকার সময় নেই
 
-[b]Mobile দিয়েই এখন real website এ JavaScript practice করা যায়[/b]।
+**Mobile দিয়েই এখন real website এ JavaScript practice করা যায়।**
 
 আগে test করো
 ভুল করো
 ভাঙো
 শেখো
-তারপর [b]final code server[/b] এ বসাও।
+তারপর **final code server** এ বসাও।
 
-[b]JavaScript শেখার জন্য Mobile এখন যথেষ্ট।[/b]
+**JavaScript শেখার জন্য Mobile এখন যথেষ্ট।**
 
 👇
 Tools Browser Download link নিচে দেওয়া আছে।
 নিজে ব্যবহার করো, তারপর বুঝবে—
-[b]Practice আসলে কী জিনিস।[/b]
+**Practice আসলে কী জিনিস।**
 
-*[ [url=https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser] https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser[/url] ]*
+🔗 *[Play Store থেকে Download করুন](https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser)*
 
-[b]শেষে একটা ছোট অনুরোধ[/b]
-এই পোস্টটা যদি আপনার কাজে লাগে, তাহলে অবশ্যই কমেন্ট করে জানাবেন ❤️
-Tools Browser ব্যবহার করতে গিয়ে যদি কোনো সমস্যা হয়, কোথাও বুঝতে অসুবিধা হয় বা কোনো প্রশ্ন থাকে—
-[b]কমেন্ট করুন, আমি নিজেই উত্তর দেওয়ার চেষ্টা করবো।[/b]
 
-[b] আর already installed থাকলে play Store গিয়ে রেটিং দিবেন যাতে করে নতুন নতুন features add. করতে developer উৎসাহী হয়। [/b]
+## ❤️ *আপনাদের মতামত আমাদের জন্য গুরুত্বপূর্ণ*
 
-ধন্যবাদ সবাইকে। সবাই ভালো থাকবেন সুস্থ্য থাকবেন।
+এই পোস্টটি যদি আপনার কাজে লাগে, তাহলে অবশ্যই জানাবেন ❤️  
+
+আর **Tools Browser** ব্যবহার করার সময় যদি—
+
+* ❓ *কোনো কিছু বুঝতে সমস্যা হয়*  
+* 🐞 *কোনো Bug বা Error পাওয়া যায়*  
+* ✨ *নতুন কোনো Feature দরকার মনে হয়*  
+
+তাহলে নির্দ্বিধায় আমাদের সাথে যোগাযোগ করুন।  
+
+**আপনাদের Feedback দিয়েই _Tools Browser_ আরও উন্নত হবে** 🚀
