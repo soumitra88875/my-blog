@@ -101,20 +101,20 @@ Easy. খুব easy.
 
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/IMG_20251230_094637.jpg)
 
-[b]Step 2:[/b] যে website এ test করতে চাও সেটা open করো, আমি [b]w3schools.com ওপেন করলাম।[/b]
+**Step 2:** যে website এ test করতে চাও সেটা open করো, আমি [b]w3schools.com ওপেন করলাম।[/b]
 
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img2.jpg)
 
-[b]Step 3:[/b] Tools button এ click করো
+**Step 3:** Tools button এ click করো
 
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img3.jpg)
 
-[b]Step 4:[/b] Custom tab এ যাও
+**Step 4:** Custom tab এ যাও
 
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img4.jpg)
 
 এই জায়গাটাই হলো তোমার
-[b]JavaScript Practice Ground[/b]
+**JavaScript Practice Ground**
 
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/javascript_learning_smart_way/blog2_img5.jpg)
 
