@@ -110,7 +110,7 @@ Tools Browser Open করুন
 (উদাহরণ হিসেবে Google Open করা হয়েছে)
 
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/read-only-mode/blog2_img1.jpg
-
+)
 ---
 
 ### Step 2: বর্তমান অবস্থায় Image দেখুন
