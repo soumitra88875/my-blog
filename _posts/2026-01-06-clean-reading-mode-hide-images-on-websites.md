@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "ডাটা কম? Image লোডে বিরক্ত? মোবাইলে যেকোনো ওয়েবসাইট Text-Only Mode-এ পড়ার Complete বাংলা Guide"
+date: 2026-01-06 16:10:00 +0530
+published: false
+thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
+---
 
 আপনি কি কখনো এমন অবস্থায় পড়েছেন—
 
@@ -98,12 +104,12 @@
 
 Tools Browser Open করুন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 তারপর আপনার পছন্দের Website Open করুন  
 (উদাহরণ হিসেবে Google Open করা হয়েছে)
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -118,7 +124,7 @@ Website-এ সব Image দেখা যাচ্ছে।
 
 নিচের **Tools Button**-এ Click করুন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -127,7 +133,7 @@ Website-এ সব Image দেখা যাচ্ছে।
 👉 **Custom** এ যান  
 👉 **Menu** থেকে **JavaScript Lab** Open করুন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -137,11 +143,11 @@ JavaScript Lab-এ Search করুন—
 
 **Hide All Image**
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 Script-এর উপর Click করুন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -149,7 +155,7 @@ Script-এর উপর Click করুন
 
 Script-এ Click করুন ✅  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -159,7 +165,7 @@ Script-এ Click করুন ✅
 🎉 শুধু Text Visible  
 🎉 Clean Reading Experience  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -182,7 +188,7 @@ Page Refresh করলে—
 Website Open থাকা অবস্থায়  
 👉 **App Menu** → **Local JavaScript**
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -193,7 +199,7 @@ Menu থেকে আবার **JavaScript Lab Open** করুন
 
 👉 **Hide All Image** Script Add করুন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -218,7 +224,7 @@ Menu থেকে আবার **JavaScript Lab Open** করুন
 👉 **Local JavaScript** → **Menu**  
 👉 **Entire Site** Option-এ ✔ Tick দিন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -227,7 +233,7 @@ Menu থেকে আবার **JavaScript Lab Open** করুন
 JavaScript Lab থেকে আবার  
 👉 **Hide All Image** Script Add করুন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -249,7 +255,7 @@ JavaScript Lab থেকে আবার
 3️⃣ Scroll করে নিচে নামুন  
 4️⃣ **Global JavaScript** Option-এ Click করুন  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 5️⃣ একই **Hide All Image** Script Add করুন  
 
@@ -281,7 +287,7 @@ Image Load-এর ডাটা আগেই কেটে যেতে পার�
 4️⃣ **Image Load** Option খুঁজুন  
 5️⃣ সেটি **Uncheck** করুন ❌  
 
-<!-- Screenshot Here -->
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/
 
 ---
 
@@ -305,21 +311,13 @@ Image Load-এর ডাটা আগেই কেটে যেতে পার�
 
 ---
 
-## 📥 App Download Link
+## 📥 Tools Browser ডাউনলোড লিংক
 
-https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser  
-
----
-
-## 💬 Feedback & Support
-
-👉 GitHub **Issues / Discussions**  
-👉 Official **Group বা Page-এ Message**
-
-আপনার Feedback দেখেই  
-পরবর্তী Update ও নতুন Guide পরিকল্পনা করা হবে।
+👉 **Tools Browser Download করুন এখান থেকে:**  
+🔗 *[Play Store থেকে Download করুন](https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser)*
 
 ---
+
 
 ## ⭐ Play Store Feedback দিন
 
@@ -329,7 +327,15 @@ https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser
 
 👉 **Play Store Feedback = সবচেয়ে বড় Support**
 
----
+আর **Tools Browser** ব্যবহার করার সময় যদি—
+
+* ❓ *কোনো কিছু বুঝতে সমস্যা হয়*  
+* 🐞 *কোনো Bug বা Error পাওয়া যায়*  
+* ✨ *নতুন কোনো Feature দরকার মনে হয়*
+  
+ feedback দিন আপনার Feedback দেখেই  
+পরবর্তী Update ও নতুন Guide পরিকল্পনা করা হবে।
+
 
 সুস্থ থাকবেন, ভালো থাকবেন।  
 এই গাইডটি পড়ার জন্য আন্তরিক ধন্যবাদ।
