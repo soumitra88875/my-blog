@@ -124,7 +124,8 @@ Website-এ সব Image দেখা যাচ্ছে।
 
 নিচের **Tools Button**-এ Click করুন  
 
-![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/read-only-mode/
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/read-only-mode/blog3_img2.jpg
+)
 
 ---
 
