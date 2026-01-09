@@ -116,11 +116,12 @@ display তে আবার দুই আঙুল touch করে ফেলে,
 এটাই toggle system।
 
 নিচের screenshot গুলো দেখলে বিষয়টা আরও clear হবে —
-
+1) screenshot 
 ---
 ![Hide Top & Nav Bar](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/nav_top_bar_hide_show/hide_nav_top_bar.png)
 ---
 
+2) screenshot 
 ---
 ![Show Top & Nav Bar](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/nav_top_bar_hide_show/show_nav_src_bar.png)
 ---
