@@ -145,7 +145,7 @@ Tools Browser আগে দেখে —
 ---
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/element-lock/blog5_img5.jpg)
 ---
-3. যেকোনো element-এ ট্যাপ করুন
+3. যেকোনো element-এ ক্লিক করুন
 4. আমি **Learn to Code** এর উপর ক্লিক করলাম
 
 ---
@@ -168,12 +168,13 @@ Tools Browser আগে দেখে —
 ---
 
 এখন Element lock পেজ থেকে বেছে নিন।
-Color  
-Background  
-Size  
-Hide  
-Border  
-Font  
+
+1.Color  
+2. Background  
+3. Size  
+4. Hide  
+5. Border  
+6. Font  
 
 সব কিছু Live পরিবর্তন হবে।
 
@@ -189,7 +190,7 @@ Font
 ---
 
 **Apply** button click করার পর দেখবেন লাইভ desing change হইয়ে গেছে। 
-আমি যেহেতু background color change করেছি তাই দেখুন *Learn to code** element এর background color green।
+আমি যেহেতু background color change করেছি তাই দেখুন **Learn to code** element এর background color green।
 
 ---
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/element-lock/blog5_img10.jpg)
@@ -233,7 +234,7 @@ App Close করে আবার খুললেও
 6. **Show** চাপুন
 
 ---
-![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/element-lock/blog5_img11.jpg)
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/element-lock/blog5_img12.jpg)
 ---
 
 **Page Reload** হবে  
