@@ -39,16 +39,19 @@ Tools Browser কোনো website-এর ভেতরের ads কাটে �
 
 1. App Settings এ যান→
 ---
-![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1)
-
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 
 3. Site Settings এ যান→
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
+
 ---
   
 5. Smart Protection (টিক চিহ্ন দিন)
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
+
 ---
 
 📸 (Screenshot: Settings page)
@@ -118,16 +121,21 @@ Tools Browser দিয়েছে শক্তিশালী একটা ফি
 
 **1. App Settings » Custom Block List**
 
-📸 (Screenshot: Custom Block List page)
+---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
+---
 
 তারপর Custom Block List পেজ থেকে 
 
 1. **menu** তে যাও
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
+
 ---
 2.তারপর**add new** button e click করুন।
 
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 এখানে শুধু domain বা Full url path দিন:
 
@@ -169,9 +177,11 @@ content পাঠাচ্ছে।
 
 i. **Tools →**
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 ii. **Inspect →**
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 
 এবার এই inspect page থেকে খুঁজে বের করুন।
@@ -238,15 +248,18 @@ Tools Browser ব্যবহার করে
 আমি w3school load করলাম।
 
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 
 i) তারপর **Tools** → button এ ক্লিক করো
 
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 ii) Tools page থেকে **Edit Element** tool e ক্লিক করো।
 
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 
 এখন যে Banner Ads hide করতে চান,
@@ -262,6 +275,7 @@ Banner-এর ঠিক পাশের কোনো element
 এতে করে Tools Browser ঠিক parent container ধরে নিতে পারবেন 🎯
 
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 
 
@@ -283,7 +297,8 @@ Ads সাধারণত iframe বা dynamic script থেকে আসে �
   এই ID বা Class কপি করো।
 
 ---
-📸 (Screenshot: Parent container highlighted)
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
+
 ---
 
 **Step 3:**
@@ -292,6 +307,7 @@ Ads সাধারণত iframe বা dynamic script থেকে আসে �
 app Menu → Local JavaScript page open করো 
 
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 এবার এই page থেকে 
 **✔ Entire Site**
@@ -301,6 +317,7 @@ app Menu → Local JavaScript page open করো
 **→ Create new**
 
 ---
+![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_img1.jpg)
 ---
 
 নিচের JS বসাও
