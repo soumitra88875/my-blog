@@ -274,23 +274,22 @@ adsByClass[i].style.display = "none";
 
 Save করো।
 
-এ
 
 
 ---
 
-Step 4
+**Step 4:**
 
 Website Reload করো 🔄
 Banner ads gone 😌
 
 যদি কাজ না করে, তার মানে ভুল Parent নিয়েছো —
-সঠিক Parent নিলে 100% কাজ করবে।
+সঠিক Parent নিলে **100% কাজ করবে।**
 
 
 ---
 
-🌍 Real Life Example
+## 🌍 Real Life Example
 
 ধরো তুমি একটি:
 
@@ -316,7 +315,7 @@ Popup block
 
 ---
 
-⚖️ এটা কেন 100% Legal?
+**⚖️ এটা কেন 100% Legal?**
 
 Tools Browser:
 
@@ -337,7 +336,7 @@ Tools Browser:
 
 ---
 
-📥 Tools Browser ব্যবহার করো
+## 📥 Tools Browser ব্যবহার করো
 
 Tools Browser দিয়ে তুমি পাবে:
 
@@ -351,6 +350,12 @@ Full control
 
 সব কিছু নিজের হাতে।
 
+---
+
+## Tools Browser – Latest Version Download
+
+👉 **Tools Browser Download করুন এখান থেকে:**  
+🔗 [Play Store থেকে Download করুন](https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser)
 
 ---
 
@@ -359,5 +364,3 @@ Full control
 ইন্টারনেটে ভালো content আর খারাপ ads আলাদা করা খুব দরকার।
 
 Tools Browser তোমাকে সেই control দেয়।
-
-Be safe. Browse smart. Stay in control. 🛡️ Ei same post ata kichu nah palte convert to GitHub skyll post er jonne r amk .md file edeo code gulo code marker diye dibe. Bold text ** then head ## r ja ja marker j ekhan ja dokrar
