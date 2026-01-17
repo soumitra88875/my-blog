@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Ads Blocker, Firewall-Style Protection: Tools Browser দিয়ে Redirect, Popup ও Banner Ads Control করার সম্পূর্ণ গাইড"
+date: 2026-01-15 16:10:00 +0530
+pinned: true
+published: false 
+thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_thumb.png
+---
+
 আজকের ইন্টারনেটে আমরা সবাই একই সমস্যায় পড়ি —
 Popup ads, auto-open tabs, adult banners, fake download buttons, casino links।
 
