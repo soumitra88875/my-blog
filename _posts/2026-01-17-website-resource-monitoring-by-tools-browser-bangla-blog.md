@@ -188,29 +188,37 @@ Resources Monitor সব কিছু দেখাবে না, এবং স�
 1. প্রথমে যে ওয়েবসাইটটা দেখতে চান, সেটা লোড করুন (আমি random একটা site open করলাম)
 
 ---
+
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/resources-monitor/blog7_img1.jpg
 )
+
 ---
 
 2. App Menu খুলুন
 
 ---
+
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/resources-monitor/blog7_img2.jpg
 )
+
 ---
 
 3. **Resources Monitor** অপশন এ ক্লিক করুন  
 
 ---
+
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/resources-monitor/blog7_img3.jpg
 )
+
 ---
 
 4. একটার পর একটা URL লিস্টে আসতে দেখুন  
 
 ---
+
 ![Thumbnail](https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/resources-monitor/blog7_img4.jpg
 )
+
 ---
 
 যদি মনে হয় সব URL আসেনি—
@@ -252,6 +260,7 @@ Resources Monitor আপনাকে দেয়—
 অবশ্যই **Tools Browser** এর updated version ব্যবহার করুন।
 
 Install URL নিচে দেওয়া আছে।
+🔗 *[Play Store থেকে Download করুন](https://play.google.com/store/apps/details?id=com.soumitra.toolsbrowser)*
 
 ---
 
