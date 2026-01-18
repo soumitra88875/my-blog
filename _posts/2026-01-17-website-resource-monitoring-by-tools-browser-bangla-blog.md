@@ -2,10 +2,10 @@
 layout: post
 title: "ওয়েবসাইট খুললেই কি আপনার ডেটা অন্য কেউ চুরি করে নিয়ে যাচ্ছে? Data চুরি, Unsecured URL আর গোপন Request ধরতে Resources Monitor ব্যবহার করুন"
 date: 2026-01-17 16:10:00 +0530
-published: false 
 thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/resources-monitor/blog7_thum.png
 ---
-## ⚠️ আপনি কি নিশ্চিত, আপনার ফোনে যেই ওয়েবসাইটটা খুলছেন সেটা ১০০% নিরাপদ?
+
+**⚠️ আপনি কি নিশ্চিত, আপনার ফোনে যেই ওয়েবসাইটটা খুলছেন সেটা ১০০% নিরাপদ?**
 
 অনেক সময় আমরা দেখি—  
 একটা ওয়েবসাইট দেখতে একদম normal, সুন্দর, কাজও করছে ঠিকঠাক।  
